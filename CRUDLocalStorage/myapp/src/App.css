@@ -1,0 +1,42 @@
+body{
+  margin: 2rem;
+}
+input
+{
+  height: 2.5rem;
+  padding: 0 1rem;
+  border: solid 1px darken(white, 10);
+  border-radius: 4px;
+  margin: .5rem;
+} 
+  input[type="submit"]{
+    background: #bada55;
+    color: darken(#bada55, 45);
+    border: none;
+    padding: .5rem 2rem;
+    height: 2.5rem;
+  }
+ 
+li{
+  cursor: pointer;
+  position: relative;
+  color: darken(white, 60);
+  padding: .1rem 0;
+}
+ 
+    
+      
+hr{
+  border: none;
+  border-top: solid 1px darken(white, 10);
+  margin: 2rem 0;
+}
+p{
+  background: lighten(#bada55, 30);
+  border: solid 1px lighten(#bada55, 15);
+  border-radius: 4px;
+  padding: 1rem 2rem;
+  font-size: .95rem;
+  line-height: 1.3;
+  color: darken(#bada55, 25);
+}
