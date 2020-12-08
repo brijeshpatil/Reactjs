@@ -1,0 +1,22 @@
+Great, thank you for the details:
+
+Here are the requirements for the Charter role – please create an original solution, and send me the link when you have finished. Please don’t try to move too quickly or rush the solution. The manager likes to see what you have created, and how. He moves on people who use modern development practices, and simple solutions that meet the required parameters. And be sure to create the solution with React.
+
+Let me know if you have any questions:
+
+ 
+
+Candidates are required to perform the following assignment.
+
+ASSIGNMENT--please have candidates use React for their solutions
+
+A retailer offers a rewards program to its customers, awarding points based on each recorded purchase.
+
+A customer receives 2 points for every dollar spent over $100 in each transaction, plus 1 point for every dollar spent over $50 in each transaction
+
+(e.g. a $120 purchase = 2x$20 + 1x$50 = 90 points).
+
+Given a record of every transaction during a three month period, calculate the reward points earned for each customer per month and total.
+
+Make up a data set to best demonstrate your solution
+Check solution into GitHub
